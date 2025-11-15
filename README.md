@@ -32,6 +32,12 @@ https://github.com/4GeeksAcademy/html-hello
 6. If you are *not* using Bootstrap: build a layout strategy by drawing all the `<div>` boxes you can identify, focus particularly on the divs that are laid out horizontally in the same line because those will require using `display: flex`.
 7. If you are using Bootstrap: In order to practice all the classes that Bootstrap gives you to style your forms, you need almost no CSS of your own.
 
+## ✅ Requirements
+
+- [ ] HTML 5 form using Bootstrap form utilities
+- [ ] Using the Bootstrap grid layout
+- [ ] Don't forget to use FontAwesome
+
 ## 📒 Resources
 
 Only if you are using Bootstrap: Here is the [Bootstrap 5 documentation about forms](https://getbootstrap.com/docs/5.0/forms/overview/). Try understanding the HTML code behind the examples so you can tweak them into your solution.
